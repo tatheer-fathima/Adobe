@@ -1,4 +1,4 @@
-# 📄 Adobe GenAI Hackathon 2025 – Round 1 Submission
+# 📄 Adobe India Hackathon 2025 – Round 1 Submission
 
 ---
 
